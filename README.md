@@ -8,6 +8,6 @@ Utilized solidity and metamask to showcase event triggers in the supply chain, e
 **1.** Blockchain based on Ether.<br>
 **2.** Create a new workspace in https://remix.ethereum.org<br>
 **3.** Create a new file in the same workspace and name it as product.sol(sol extension is solidity).<br>
-**4.** Run the product.sol code uploaded in this repository and watch for the results.
+**4.** Run the product.sol code uploaded in this repository.
 
 
